@@ -2,13 +2,13 @@
 <h3 align="center">Software Developer | Competitive Programmer | Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Bahnasy&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Bahnasy" /> </p>
-<img align="right" alt="Coding" width="250" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif"/>
+<img align="right" alt="Coding" width="250" src="./coding-typing.gif"/>
 
 - 🌱 I’m currently learning **Game Development, Deep Learning, and Addvanced Datastructures** 
 - 👯 I’m looking to collaborate on **Game and AI-related projects** 
 - 🤔 I’m open to exploring challenging projects that enhance my problem-solving skills.
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -23,7 +23,7 @@
 </a>
 </div>
 
----
+
 
 <h3 align="left">Skills</h3>
 <div align="left">
@@ -54,9 +54,10 @@ An enhanced Tic-Tac-Toe game with an improved UI and smarter AI logic for an eng
 
 <h3 align="left">Tools</h3>
 <div align="left">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_visualstudio/microsoft_visualstudio-icon.svg" alt="Visual Studio" height="40" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="oracle" height="40" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Tkinter (Python)" height="40" />
 
 </div>
 
@@ -75,9 +76,5 @@ An enhanced Tic-Tac-Toe game with an improved UI and smarter AI logic for an eng
 
 ---
 
-<h3 align="left">GIF Showcase</h3>
-<img width="100%" src="https://via.placeholder.com/800x400?text=Add+Your+GIF+Here" alt="GIF Showcase" />
-
----
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration.
