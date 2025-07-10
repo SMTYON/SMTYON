@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="mnader9112005@gmail.com" target="_blank">
+<a href="mailto:mnader9112005@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 <a href="https://github.com/SMTYON" target="_blank">
