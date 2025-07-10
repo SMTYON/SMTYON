@@ -29,8 +29,6 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" height="40" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" height="40" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" height="40" />
-<img style="margin: 10px"     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg"alt="csharp" height="40"/>
-<img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" height="40" />
 </div>
 
 ---
@@ -44,7 +42,6 @@
 <div align="left">
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" height="40" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="oracle" height="40" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Tkinter (Python)" height="40" />
 
 </div>
