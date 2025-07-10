@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mostafa Bahnasy</h1>
-<h3 align="center">Software Developer | Competitive Programmer | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
+<h3 align="center">Software Developer | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Bahnasy&label=Profile%20views&color=0e75b6&style=flat" alt="Mostafa-Bahnasy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Bahnasy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Nader" /> </p>
 <img align="right" alt="Coding" width="250" src="./coding-typing.gif"/>
 
-- 🌱 I’m currently learning **Game Development, Deep Learning, and Addvanced Datastructures** 
-- 👯 I’m looking to collaborate on **Game and AI-related projects** 
+- 🌱 I’m currently learning **algorithm, and Addvanced Datastructures** 
 - 🤔 I’m open to exploring challenging projects that enhance my problem-solving skills.
 
 
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="mailto:mustafaabdallah2003.com" target="_blank">
+<a href="mnader9112005@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23F45.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://github.com/Mostafa-Bahnasy" target="_blank">
+<a href="https://github.com/SMTYON" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
-<a href="https://www.linkedin.com/in/mustafa-bahnasy-9248b418a/" target="_blank">
+<a href="https://www.linkedin.com/in/mahmoud-nader-661669373/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 </div>
@@ -38,17 +37,6 @@
 
 <h3 align="left">Featured Projects</h3>
 
-### 1. [GAMES_CLUB](https://github.com/Mostafa-Bahnasy/GAMES_CLUB) 🎮
-A collection of engaging games like Tic-Tac-Toe and Pac-Man, with roles like Admin and Client. Also includes a local chat app.
-
-### 2. [Testing-Code-Tool](https://github.com/Mostafa-Bahnasy/Testing-Code-Tool) 🛠️
-An automation tool to compare code snippets, generate tests, and evaluate outputs for better accuracy.
-
-### 3. [LoveLetterMaker](https://github.com/Mostafa-Bahnasy/LoveLetterMaker) 💌
-A creative C++ bot that generates personalized love letters using templates, blending fun with automation.
-
-### 4. [TIC-TAC-TOE-MODIFIED](https://github.com/Mostafa-Bahnasy/TIC-TAC-TOE-MODIFIED) ✖️⭕
-An enhanced Tic-Tac-Toe game with an improved UI and smarter AI logic for an engaging experience.
 
 ---
 
@@ -63,18 +51,6 @@ An enhanced Tic-Tac-Toe game with an improved UI and smarter AI logic for an eng
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bahnasy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mostafa-Bahnasy&theme=radical&hide_border=true" />
-</div>
-
-<div>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Mostafa-Bahnasy&theme=radical&no-frame=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Bahnasy&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration.
