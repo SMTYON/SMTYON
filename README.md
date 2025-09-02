@@ -35,12 +35,15 @@
 <h4>AM Voting system</h4>
 
 •A C++ voting application with Qt integration that manages users, polls, and voting records.
+
 •A custom data structure, a custom one-way hash function, and a database using a  custom CSV file format.
+
 •Error handling and a small time complexity.
   
 <h4>propeller clock</h4>
 
 •An Arduino-based (IOT) project, which shows the time with a spinning robot arm.
+
 •We used Arduino C, RTC, Arduino Nano, and a custom circuit board.
 
 
