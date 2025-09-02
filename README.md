@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Nader</h1>
 <h3 align="center">Software Developer | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mostafa-Bahnasy&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoud Nader" /> </p>
-##<img align="right" alt="Coding" width="250" src="./coding-typing.gif"/>
 
 - 🌱 I’m currently learning **algorithm, and Addvanced Datastructures** 
 - 🤔 I’m open to exploring challenging projects that enhance my problem-solving skills.
